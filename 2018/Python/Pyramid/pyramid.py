@@ -1,4 +1,5 @@
-#Print pyramid based on the specified height
+# cerner_2^5_2018
+# Print pyramid based on the specified height
 
 height = int(input('Enter the height of pyramid :'))
  
